@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: ML-Project
+Version: 0.0.0.1
+Author: Sweta Kumari
+Author-email: swetakumari071188@gmail.com
+Requires-Dist: pandas
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
