@@ -1,0 +1,9 @@
+[2026-01-05 23:03:39,004: INFO: app]: Application started
+[2026-01-05 23:03:39,004: INFO: app]: Application finished
+[2026-01-05 23:03:39,004: INFO: __init__]: Reading data from SQL database
+[2026-01-05 23:03:39,103: INFO: __init__]: Connection to database established successfully
+[2026-01-05 23:03:39,692: INFO: __init__]: Data read successfully from SQL database
+[2026-01-05 23:03:39,693: INFO: data_ingestion]: Data Ingestion method starts
+[2026-01-05 23:03:39,693: INFO: data_ingestion]: Dataset read as pandas dataframe
+[2026-01-05 23:03:40,031: INFO: data_ingestion]: Raw data is saved
+[2026-01-05 23:03:40,446: INFO: data_ingestion]: Ingestion of the data is completed
